@@ -34,6 +34,8 @@ Algoritmo clase2a
 	Mostrar "El programa ha terminado, gracias"
 	Mostrar "Presione una tecla para finalizar..."
 	Esperar Tecla
+	
+	//comentario para el git
 FinAlgoritmo
 
 	
